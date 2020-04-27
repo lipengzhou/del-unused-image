@@ -1,8 +1,8 @@
 {
   "name": "del-unused-image",
+  "email": "lpzmail@163.com",
   "version": "0.0.1",
   "description": "delete unused image from markdown",
-  "private": true,
   "scripts": {},
   "bin": {
     "del-unused-image": "./main.js"

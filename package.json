@@ -1,0 +1,18 @@
+{
+  "name": "del-unused-image",
+  "version": "0.0.1",
+  "description": "delete unused image from markdown",
+  "private": true,
+  "scripts": {},
+  "bin": {
+    "del-unused-image": "./main.js"
+  },
+  "keywords": [],
+  "author": "lipengzhou",
+  "license": "MIT",
+  "homepage": "https://github.com/lipengzhou/del-unused-image",
+  "dependencies": {
+    "globby": "^11.0.0",
+    "trash": "^6.1.1"
+  }
+}
